@@ -2,7 +2,7 @@
 This is the dataset for paper *<<MET-Meme: A Multi-modal Meme Dataset Rich in Metaphors>>*.  <br>
 MET-Meme spans across two languages, amounting to 10045 text-image pairs with manual annotations.  <br>
 **Cimages.rar** is a compressed file containing 6045 Chinese images.<br>
-**Eimages.rar** is a compressed file containing 4000 English images.
+**Eimages.rar** is a compressed file containing 4000 English images.<br>
 Introduction to Met-meme： <br>
 (1): metaphor annotation: 1.metaphor occurrence : 0 represents literal meme; 1 represents metaphorical meme. <br>
                           2.metaphor category: complementary;text dominant;image dominant.<br>
